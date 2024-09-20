@@ -1,8 +1,10 @@
 <h2 align="center"> About me 👋 </h2>
 
 <p align="center">
-I'm a software developer intern at York Region.<br> I previously worked as an auditor and senior financial analyst at Deloitte and General Electric before obtaining my CPA.<br>
-A few years ago, I traded spreadsheets for code to become a software engineer and build solutions. 💻🚀
+👨‍💻 I'm a software developer intern at York Region <br>
+🧾 I previously worked as an Auditor and Senior financial analyst at Deloitte and General Electric before obtaining my CPA <br>
+💻 A few years ago, I traded spreadsheets for code to become a software engineer and build solutions <br>
+⚡ I've been practicing Brazilian Jiu-Jitsu for 5 years and hold a black belt in Japanese Jiu-Jitsu."
 </p>
 
 <!--
