@@ -1,25 +1,8 @@
 <h2 align="center"> About me 👋 </h2>
 
-<p align="center">
-👨‍💻 I'm a software developer intern at York Region <br>
-🧾 I previously worked as an Auditor and Senior financial analyst at Deloitte and General Electric before obtaining my CPA <br>
-💻 A few years ago, I traded spreadsheets for code to become a software engineer and build solutions <br>
-⚡ I've been practicing Brazilian Jiu-Jitsu for 5 years and hold a black belt in Japanese Jiu-Jitsu."
-</p>
+- 👨‍💻 I'm a software developer intern at York Region, and am studying computing at Queen's University
+- 🧾 I previously worked as an auditor and senior financial analyst at Deloitte and General Electric before obtaining my CPA
+- 💻 A few years ago, I traded spreadsheets for code to become a software engineer and build solutions
+- 🥋 I've been practicing Brazilian Jiu-Jitsu for 5 years and hold a black belt in Japanese Jiu-Jitsu
 
-<!--
-**danielkamenetsky/danielkamenetsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-##I'm a software developer intern at York Region. I previously worked as an auditor and senior financial analyst at Deloitte and General Electric before obtaining my CPA.
-A few years ago, I traded spreadsheets for code to become a software engineer and build solutions.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
