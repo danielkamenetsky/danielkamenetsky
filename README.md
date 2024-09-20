@@ -1,9 +1,13 @@
-## Hi there 👋
+## About me 👋
 
+##I'm a software developer intern at York Region. I previously worked as an auditor and senior financial analyst at Deloitte and General Electric before obtaining my CPA.
+A few years ago, I traded spreadsheets for code to become a software engineer and build solutions.
 <!--
 **danielkamenetsky/danielkamenetsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+##I'm a software developer intern at York Region. I previously worked as an auditor and senior financial analyst at Deloitte and General Electric before obtaining my CPA.
+A few years ago, I traded spreadsheets for code to become a software engineer and build solutions.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
