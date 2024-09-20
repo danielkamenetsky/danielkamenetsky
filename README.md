@@ -1,7 +1,10 @@
-## About me 👋
+<h2 align="center"> About me 👋 </h2>
 
-##I'm a software developer intern at York Region. I previously worked as an auditor and senior financial analyst at Deloitte and General Electric before obtaining my CPA.
-A few years ago, I traded spreadsheets for code to become a software engineer and build solutions.
+<p align="center">
+I'm a software developer intern at York Region. I previously worked as an auditor and senior financial analyst at Deloitte and General Electric before obtaining my CPA.<br>
+A few years ago, I traded spreadsheets for code to become a software engineer and build solutions. 💻🚀
+</p>
+
 <!--
 **danielkamenetsky/danielkamenetsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
